@@ -6,7 +6,9 @@ Steps to use would be:
 ** You'll need to enable less secure as per apps: https://help.dreamhost.com/hc/en-us/articles/115001719551-Troubleshooting-GMAIL-SMTP-authentication-errors
 * Edit the app.config per below
 * Build the application
-* run it(there's no UI). to kill the app just use task manager.
+* run it(there's no UI).
+* Open Project diablo 2 to the chat window. You should now get an email for a whisper.
+* If you want to stop the application just use task manager.
 
 App.config settings:
 * senderAddress: the email address you send emails from. has to be a gmail
