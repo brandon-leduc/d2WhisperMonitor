@@ -3,7 +3,7 @@ Takes a screenshot of the specified part of your monitor and checks for the whis
 
 Steps to use would be:
 * set up a gmail account(preferrably a separate one from your main) to work as the sender
-** You'll need to enable less secure as per apps: https://help.dreamhost.com/hc/en-us/articles/115001719551-Troubleshooting-GMAIL-SMTP-authentication-errors
+   * You'll need to enable less secure apps as per: https://help.dreamhost.com/hc/en-us/articles/115001719551-Troubleshooting-GMAIL-SMTP-authentication-errors
 * Edit the app.config per below
 * Build the application
 * run it(there's no UI).
