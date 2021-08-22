@@ -7,7 +7,7 @@ Steps to use would be:
 * Edit the app.config per below
 * Build the application
 * Open Project diablo 2 to the chat window.
-* run it(there's no UI). You should now get an email for a whisper.
+* Run this application(there's no UI). You should now get an email for a whisper.
 * If you want to stop the application just use task manager.
 
 App.config settings:
